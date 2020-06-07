@@ -1,0 +1,6 @@
+[submodule "Submod"]
+	url = https://github.com/vanshikalamba/covid19fight.git
+	branch = Development
+[submodule "covid19fight"]
+	path = covid19fight
+	url = https://github.com/Vanshikalamba/covid19fight.git
